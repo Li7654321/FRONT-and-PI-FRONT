@@ -1,5 +1,5 @@
 # Training Data Sample
-This directory is intended to hold a small, representative subset of the synthetic training data used by FRONT and PI-FRONT. The synthetic rupture models and waveforms were produced with [MudPy](https://github.com/UO-Geophysics/MudPy), including its FakeQuakes workflow. 
+The synthetic training dataset was generated using [MudPy](https://github.com/UO-Geophysics/MudPy), including its FakeQuakes workflow. A sample of the dataset is available as an attachment to the GitHub Release.
 ## Simulation parameters
 | Parameter | Value |
 | --- | --- |
@@ -9,7 +9,7 @@ This directory is intended to hold a small, representative subset of the synthet
 | UTM_zone | 48N |
 | time_epi | 2008-05-12T06:28:04Z |
 | hypocenter | None |
-| rake | 120°-160° |
+| rake | 120°-160°, step 5° |
 | scaling_law | T |
 | hurst | 0.4-0.6 |
 | max_slip | 20 m |
