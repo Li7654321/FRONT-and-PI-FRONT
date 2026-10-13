@@ -4,7 +4,7 @@ The checkpoint is provided as a GitHub Release asset, not as a file in the Git r
 
 ## Download
 
-[Download best_model.pth](https://github.com/OWNER/FRONT-and-PI-FRONT/releases/download/TAG/best_model.pth)
+[Download best_model.pth](https://github.com/Li7654321/FRONT-and-PI-FRONT/releases/tag/v1.0.0/best_model.pth)
 
 
 ## Training configuration
