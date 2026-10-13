@@ -37,6 +37,6 @@ For questions about the code or data, please contact the corresponding author:
 Qifang Liu
 Email:qifang_liu@126.com 
 ## License
-The source code in this repository is licensed under the MIT License. 
+The source code in this repository is licensed under the [MIT License](LICENSE) 
 ## Acknowledgement
 The network architecture draws on ideas from [STGCN](https://github.com/VeritasYin/STGCN_IJCAI-18), [Graph WaveNet](https://github.com/nnzhan/Graph-WaveNet), [GAT](https://github.com/PetarV-/GAT), and [GCN](https://github.com/tkipf/gcn).
