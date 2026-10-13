@@ -1,5 +1,6 @@
 # Training Data Sample
 The synthetic training dataset was generated using [MudPy](https://github.com/UO-Geophysics/MudPy), including its FakeQuakes workflow. A sample of the dataset is available as an attachment to the GitHub Release.
+[Download Sample Dataset](https://github.com/Li7654321/FRONT-and-PI-FRONT/releases/tag/v3.0.0/longmenshan01.zip)
 ## Simulation parameters
 | Parameter | Value |
 | --- | --- |
