@@ -6,7 +6,7 @@ The synthetic training dataset was generated using [MudPy](https://github.com/UO
 | --- | --- |
 | project_name| longmenshan01 |
 | ncpus | 20 |
-| target_Mw | 6.8–8.0, step 0.1 |
+| target_Mw | 6.8–8.3, step 0.1 |
 | UTM_zone | 48N |
 | time_epi | 2008-05-12T06:28:04Z |
 | hypocenter | None |
