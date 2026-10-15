@@ -34,10 +34,6 @@ Set the training parameters in main.py for your experiment. After confirming tha
 ```bash
 python main.py
 ```
-## Contact information
-For questions about the code or data, please contact the corresponding author:
-Qifang Liu
-Email:qifang_liu@126.com 
 ## License
 The source code in this repository is licensed under the [MIT License](LICENSE) 
 ## Acknowledgement
