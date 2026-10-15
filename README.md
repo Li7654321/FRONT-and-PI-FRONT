@@ -28,7 +28,7 @@ python run_processing.py
 ```
 The script creates a Split_info folder containing the files prepared for training. See the Split_info folder for the generated files.
 ### 3. Preparation before training
-Please check whether the fault model file ([longmenshan.fault](data/Wenchuan_Earthquake/)), station coordinate file ([station.txt](data/Wenchuan_Earthquake/)), and Green's function file exist.
+Please check whether the fault model file ([longmenshan.fault](data/Wenchuan_Earthquake/)), station coordinate file ([station.txt](data/Wenchuan_Earthquake/)), and the [Green's function file](https://github.com/Li7654321/FRONT-and-PI-FRONT/releases/tag/v4.0.0) exist.
 ### 4. Train the model
 Set the training parameters in main.py for your experiment. After confirming that the required files are available in Split_info, run the following command from the directory containing main.py:
 ```bash
