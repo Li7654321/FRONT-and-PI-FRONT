@@ -27,7 +27,9 @@ Place the dataset folder and the code folder in the same parent directory. Befor
 python run_processing.py
 ```
 The script creates a Split_info folder containing the files prepared for training. See the Split_info folder for the generated files.
-### 3. Train the model
+### 3. Preparation before training
+Please check whether the fault model file ([longmenshan.fault](data/Wenchuan_Earthquake/)), station coordinate file ([station.txt](data/Wenchuan_Earthquake/)), and Green's function file exist.
+### 4. Train the model
 Set the training parameters in main.py for your experiment. After confirming that the required files are available in Split_info, run the following command from the directory containing main.py:
 ```bash
 python main.py
